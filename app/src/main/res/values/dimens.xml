@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recyclerview_padding">8dp</dimen>
+    <dimen name="card_detail_radius">8dp</dimen>
+    <dimen name="card_detail_mg">16dp</dimen>
+    <dimen name="card_detail_pd">24dp</dimen>
+    <dimen name="book_item_radius">8dp</dimen>
+    <dimen name="book_item_mg_b">4dp</dimen>
+    <dimen name="book_item_child_pd">8dp</dimen>
+    <dimen name="fab_mg">16dp</dimen>
+    <dimen name="dialog_width">250dp</dimen>
+</resources>

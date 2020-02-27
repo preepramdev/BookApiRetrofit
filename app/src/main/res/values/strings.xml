@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BookApiRetrofit</string>
+    <string name="id">id :</string>
+    <string name="title">title :</string>
+    <string name="author">author :</string>
+    <string name="page">page :</string>
+    <string name="add_book">Add Book</string>
+    <string name="book_page_holder">book\'s page</string>
+    <string name="book_author_holder">book\'s author</string>
+    <string name="book_title_holder">book\'s title</string>
+    <string name="book_id_holder">book\'s id</string>
+    <string name="cancel">Cancel</string>
+    <string name="remove">Remove</string>
+    <string name="update">Update</string>
+</resources>
